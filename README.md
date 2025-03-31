@@ -1,6 +1,6 @@
 # Smart News Summarizer
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_color.svg)](https://your_streamlit_app_url_here) **A web application powered by Large Language Models (LLMs) to fetch and summarize news headlines from various categories and countries.**
+**A web application powered by Large Language Models (LLMs) to fetch and summarize news headlines from various categories and countries.**
 
 ## Features
 
